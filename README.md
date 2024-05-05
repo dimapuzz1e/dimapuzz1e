@@ -18,6 +18,22 @@
 <h2> Skills </h2>
 <ul>
   <li>
+    <a href="https://git-scm.com/" target="_blank">
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    </a>
+    <a href="https://github.com/" target="_blank">
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+    <a href="https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow" target="_blank">
+      <img alt="Git Flow" src="https://img.shields.io/badge/Git%20Flow-181717?style=for-the-badge&logo=git&logoColor=white">
+    </a>
+  </li>
+    <li>
+    <a href="https://jupyter.org/" target="_blank">
+      <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+    </a> 
+  </li>
+  <li>
     <a href="https://www.python.org" target="_blank">
       <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     </a>
@@ -34,7 +50,7 @@
     </a>
     <a href="https://pytorch.org/" target="_blank">
       <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    </a>,
+    </a>
     <a href="https://pandas.pydata.org/" target="_blank">
       <img alt="Pandas" src="https://img.shields.io/badge/Pandas-3776AB?style=for-the-badge&logo=python&logoColor=white">
     </a>
@@ -54,30 +70,18 @@
       <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-3776AB?style=for-the-badge&logo=python&logoColor=white">
     </a>
   </li>
-    <li>
-    <a href="https://git-scm.com/" target="_blank">
-      <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-    </a>
-    <a href="https://github.com/" target="_blank">
-      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-    </a>
-    <a href="https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow" target="_blank">
-      <img alt="Git Flow" src="https://img.shields.io/badge/Git%20Flow-181717?style=for-the-badge&logo=git&logoColor=white">
-    </a>
-  </li>
   <li>
-    <a href="https://jupyter.org/" target="_blank">
-      <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
-    </a> 
-  </li>
-  <li>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+      <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+    </a>
     <a href="https://www.mysql.com/" target="_blank">
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    </a> and 
+    </a>
     <a href="https://www.postgresql.org/" target="_blank">
       <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
     </a>
-  </li>
+</li>
+
   <li>
     <a href="https://powerbi.microsoft.com/" target="_blank">
       <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
@@ -92,19 +96,17 @@
     </a>
   </li>
   <li>
-    <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
-      <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-      <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    </a>
-    <a href="https://www.javascript.com/" target="_blank">
-      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    </a>
-  </li>
-  <li>
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
       <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+    </a>
+        <a href="https://www.javascript.com/" target="_blank">
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+      <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    </a>
+    <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
+      <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     </a>
   </li>
   <ul>

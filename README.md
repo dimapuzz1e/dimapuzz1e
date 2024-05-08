@@ -11,7 +11,7 @@
   </a>
 
 - 👋 Hi, I’m Dmytro
-- 💼 I'm a Data Scientist at Yabluka
+- 💼 I'm a Data Scientist at Yabluka Digital
 - 🎓 I am studying at National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"
 - 💬 Talk to me about new opportunities in Data Science and Software Engineering
 - 👯 I am passionate about data science, data analysis, and python software development. I have a diverse skill set to offer. If you are interested in working together or discussing potential employment opportunities, please do not hesitate to reach out using the contact details provided.

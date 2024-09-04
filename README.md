@@ -96,20 +96,6 @@
       <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     </a>
   </li>
-  <li>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-      <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    </a>
-        <a href="https://www.javascript.com/" target="_blank">
-      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-      <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    </a>
-    <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
-      <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    </a>
-  </li>
   <ul>
 
 <h2> Github Stats </h2>

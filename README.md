@@ -21,10 +21,10 @@
   <li>
     <a href="https://git-scm.com/" target="_blank">
       <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-    </a>
+    </a>,
     <a href="https://github.com/" target="_blank">
       <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-    </a>
+    </a>,
     <a href="https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow" target="_blank">
       <img alt="Git Flow" src="https://img.shields.io/badge/Git%20Flow-181717?style=for-the-badge&logo=git&logoColor=white">
     </a>
@@ -42,31 +42,31 @@
   <li>
     <a href="https://seaborn.pydata.org/" target="_blank">
       <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    </a>
+    </a>,
     <a href="https://matplotlib.org/" target="_blank">
       <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    </a>
+    </a>,
     <a href="https://numpy.org/" target="_blank">
       <img alt="NumPy" src="https://img.shields.io/badge/NumPy-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    </a>
+    </a>,
     <a href="https://pytorch.org/" target="_blank">
       <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    </a>
+    </a>,
     <a href="https://pandas.pydata.org/" target="_blank">
       <img alt="Pandas" src="https://img.shields.io/badge/Pandas-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    </a>
+    </a>,
     <a href="https://scikit-learn.org/" target="_blank">
       <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    </a>
+    </a>,
     <a href="https://keras.io/" target="_blank">
       <img alt="Keras" src="https://img.shields.io/badge/Keras-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    </a>
+    </a>,
     <a href="https://www.nltk.org/" target="_blank">
       <img alt="NLTK" src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    </a
+    </a,
     <a href="https://www.scipy.org/" target="_blank">
       <img alt="SciPy" src="https://img.shields.io/badge/SciPy-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    </a>
+    </a>,
     <a href="https://www.tensorflow.org/" target="_blank">
       <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-3776AB?style=for-the-badge&logo=python&logoColor=white">
     </a>
@@ -74,21 +74,20 @@
   <li>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
       <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-    </a>
+    </a>,
     <a href="https://www.mysql.com/" target="_blank">
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    </a>
+    </a>,
     <a href="https://www.postgresql.org/" target="_blank">
       <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
     </a>
 </li>
-
   <li>
     <a href="https://powerbi.microsoft.com/" target="_blank">
       <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-    </a>
-    <a href="https://www.tableau.com/" target="_blank">
-      <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+    </a>,
+    <a href="https://lookerstudio.google.com/" target="_blank">
+      <img alt="Looker Studio" src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=lookerstudio&logoColor=white">
     </a>
   </li>
   <li>
